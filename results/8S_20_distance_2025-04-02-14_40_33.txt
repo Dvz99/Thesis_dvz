@@ -1,0 +1,66 @@
+8S_20_distance
+2025-04-02-14_40_33
+113.76170212765958
+52.49361702127659
+Objective: 111470.64
+Route for vehicle 0:
+ 0 ->  30 ->  33 ->  32 ->  31 -> 0
+Distance of the route: 11050.03 m
+
+Route for vehicle 1:
+ 0 ->  23 ->  40 ->  46 ->  25 ->  7 ->  24 ->  39 ->  45 ->  27 ->  26 ->  28 ->  29 ->  9 ->  3 -> 0
+Distance of the route: 25163.71 m
+
+Route for vehicle 2:
+ 1 ->  5 ->  34 ->  6 ->  17 ->  41 ->  14 ->  19 ->  15 ->  10 ->  44 ->  21 ->  42 ->  16 ->  20 -> 1
+Distance of the route: 19886.55 m
+
+Route for vehicle 3:
+ 1 ->  2 ->  43 ->  22 ->  13 ->  18 ->  47 ->  48 ->  35 ->  36 ->  8 ->  38 ->  37 ->  11 ->  12 ->  4 -> 1
+Distance of the route: 15370.39 m
+
+Total of the route distances: 71470.68m
+Weight per vehicle:
+231.2
+687.2
+765.6
+783.2
+Time per vehicle (according to time matrix, no breaks):
+2214.59
+6200.84
+4777.47
+4328.16
+Income per vehicle:
+333.12
+1479.48
+1384.23
+1810.16
+----------------------------------------------
+Vehicle 1 (4 clients)
+Length of route (meters) = 11050.03
+Route duration (seconds) + service time = 2322.800000000002
+No break (route shorter than 4.5 hours)
+Route duration (hours) = 0.65
+----------------------------------------------
+Vehicle 2 (14 clients)
+Length of route (meters) = 25163.71
+Route duration (seconds) + service time = 6333.5
+No break (route shorter than 4.5 hours)
+Route duration (hours) = 1.76
+----------------------------------------------
+Vehicle 3 (14 clients)
+Length of route (meters) = 19886.55
+Route duration (seconds) + service time = 5038.499999999997
+No break (route shorter than 4.5 hours)
+Route duration (hours) = 1.4
+----------------------------------------------
+Vehicle 4 (15 clients)
+Length of route (meters) = 15370.39
+Route duration (seconds) + service time = 4406.899999999999
+No break (route shorter than 4.5 hours)
+Route duration (hours) = 1.22
+----------------------------------------------
+Total:
+Distance: 71470.68
+Time without break: 18101.699999999997 = 5.03
+Time with break: 18101.699999999997 = 5.03
